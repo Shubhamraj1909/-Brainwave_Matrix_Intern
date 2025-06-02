@@ -35,15 +35,16 @@ To run the Day Planner, all you need is:
   No server or build setup required.
 
  ## 🚀 Usage
-Open index.html in any browser.
+  Open index.html in any browser.
 
-Enter your tasks in the input fields.
+  Enter your tasks in the input fields.
 
-Click the 💾 icon to save.
+  Click the 💾 icon to save.
 
-Your tasks will remain saved even after reloading the page.
+  Your tasks will remain saved even after reloading the page.
 
 ## 📂 Project Structure
+
  day-planner/
  ├── index.html       # Main HTML file
  ├── style.css        # Styling file
