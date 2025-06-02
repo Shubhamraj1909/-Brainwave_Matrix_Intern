@@ -24,6 +24,12 @@ To run the Day Planner, all you need is:
 ## 🔧 Installation
 
 1. Clone the repository:
-   ```bash
+   
    git clone https://github.com/your-username/day-planner.git
    cd day-planner
+
+2.Open the app:
+
+Open index.html in your browser.
+
+No server or build setup required.
