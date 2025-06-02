@@ -22,35 +22,8 @@ To run the Day Planner, all you need is:
 ---
 
 ## 🔧 Installation
+
 1. Clone the repository:
+   ```bash
    git clone https://github.com/your-username/day-planner.git
    cd day-planner
-   
-Open the app:
-Open index.html in your browser.
-
-No server or build setup required.
-
-🚀 Usage
-Open index.html in any browser.
-
-Enter your tasks in the input fields.
-
-Click the 💾 icon to save.
-
-Your tasks will remain saved even after reloading the page.
-
-📂 Project Structure
-
-day-planner/
-├── index.html       # Main HTML file
-├── style.css        # Styling file
-└── script.js        # JavaScript logic
-
-👨‍💻 Author
-Ashok Mohanta
-GitHub: @ASHOK-MOHANTA
-
-
-
-
