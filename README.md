@@ -25,7 +25,7 @@ To run the Day Planner, all you need is:
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/day-planner.git
+   git clone https://github.com/Shubhamraj1909/Brainwave_Matrix_Intern
    cd day-planner
 
 2. Open the app:
